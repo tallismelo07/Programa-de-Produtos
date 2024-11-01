@@ -30,6 +30,8 @@ Name: Laptop
 Price: 1500.00
 Quantity in stock: 10
 
+Product data: Laptop, $ 1500.00, 10 units, Total: $ 15.000
 Enter the number of products to be added in stock: 5
-
+Updated data: Laptop, $ 1500.00, 15 units, Total: $ 22.500
 Enter the number of products to be removed from stock: 3
+Updated data: Laptop, $ 1500.00, 12 units, Total: $ 18.000
